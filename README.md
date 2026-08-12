@@ -25,7 +25,7 @@ Future phases will expand into containers and ranges, general-purpose utilities,
 - All content is original writing.
 - Every runnable code sample is compile-checked in CI-style tooling before publishing.
 - Each feature is labeled with the standard that introduced it and the ones that refined it.
-- Each chapter of this documentation was inspired by Modern C++ Programming Cookbook, third edition, by Marius Bancila. I have synthesized all 750 pages and turned it into documentation for deeper understanding.
+
 
 ## Roadmap
 
